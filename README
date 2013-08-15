@@ -1,1 +1,7 @@
 Submodule test project
+
+After cloning the repo you'll need to execute:
+
+ git submodule update --init
+
+to fetch submodules.
